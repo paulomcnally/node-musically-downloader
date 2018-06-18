@@ -1,0 +1,7 @@
+{
+  "name": "Musical.ly Downloader server",
+  "description": "A server to download musical.ly video.",
+  "repository": "https://github.com/paulomcnally/node-musically-downloader.git",
+  "logo": "http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c52c.png",
+  "keywords": ["musically", "server", "download", "downloader"]
+}
